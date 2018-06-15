@@ -1,0 +1,90 @@
+{
+    "Mon": [
+        {
+            "dish": "Buffallo Chicken Quesedilla",
+            "cal": 538.9,
+            "Allergens": "Milk, Wheat",
+            "tag": "Grill"
+        },
+        {
+            "dish": "Indian Spiced Kale",
+            "cal": 404.0,
+            "Allergens": "Wheat",
+            "tag": "Veg"            
+        },
+        {
+            "dish": "General Tso's Chicken",
+            "cal": 978.8,
+            "Allergens": "Eggs, Milk, Soy, Wheat",
+            "tag": "Entree"            
+        }
+    ],
+    "Tue":[
+        {
+            "dish": "Veggie Burrito",
+            "cal": 513.1,
+            "Allergens": "Milk, Wheat",
+            "tag": "Veg"            
+        },
+        {
+            "dish": "Shanghai Steak with Noodles",
+            "cal": 1024.2,
+            "Allergens": "Soy, Wheat",
+            "tag": "Entree"            
+        }
+    ],
+    "Wed":[
+        {
+            "dish": "Bbq Beef Sandwich",
+            "cal": 549.9,
+            "Allergens": "Milk, Soy, Wheat",
+            "tag": "Grill"
+        },
+        {
+            "dish": "Thai Spicy Eggplant",
+            "cal": 537.0,
+            "Allergens": "Soy, Wheat",
+            "tag": "Veg"            
+        },
+        {
+            "dish": "Shrimp Scampi",
+            "cal": 617.1,
+            "Allergens": "Eggs, Milk, Shellfish, Wheat",
+            "tag": "Entree"            
+        }
+    ],
+    "Thu":[
+        {
+            "dish": "Rainbow Veggie Chow Fun",
+            "cal": 285.6,
+            "Allergens": "Soy, Wheat",
+            "tag": "Veg"            
+        },
+        {
+            "dish": "General Tso's Kitchen",
+            "cal": 978.8,
+            "Allergens": "Eggs, Milk, Soy, Wheat",
+            "tag": "Entree"            
+        }
+    ],
+    "Fri":[
+        {
+            "dish": "Fish Sandwich",
+            "cal": 411.4,
+            "Allergens": "Eggs, Fish Soy, Wheat",
+            "tag": "Grill"
+        },
+        {
+            "dish": "Veggie Flatbread",
+            "cal": 641.8,
+            "Allergens": "Milk, Wheat",
+            "tag": "Veg"            
+        },
+        {
+            "dish": "Meat Lovers Flatbread",
+            "cal": 875.6,
+            "Allergens": "Milk, Wheat",
+            "tag": "Entree"            
+        }
+    ]
+}
